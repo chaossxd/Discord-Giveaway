@@ -1,3 +1,5 @@
+PASTE THIS ALL IN CONSOLE!! GET IN CONSOLE BY DOING CTRL + SHIFT + I OR F12!! ⚠️⚠️
+
 # Get all Badges
 Gives you most of the discord badges
 
